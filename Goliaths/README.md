@@ -18,7 +18,7 @@ En conjunto, esta solución integra tecnología accesible, conocimiento local y 
 
 ### Ventajas o fortalezas
 
-***Conectividad autónoma:*** funciona sin internet mediante LoRa y con 4G cuando hay cobertura.
+***Conectividad autónoma:*** el sistema opera de forma independiente a la conexión a internet, utilizando LoRa para la comunicación local entre los sensores y el gateway, y 4G LTE cuando hay cobertura disponible, para transmitir los datos a la nube y habilitar su análisis remoto.
 
 ***Autosuficiente:*** todos los nodos usan energía solar, sin depender de red eléctrica.
 
